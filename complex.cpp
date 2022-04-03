@@ -1,5 +1,5 @@
 // 测试git专用
-
+// hot-fix测试
 class Complex{
 private:
   float real, img;
